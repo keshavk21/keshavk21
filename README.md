@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavk21&label=Profile%20views&color=0e75b6&style=flat" alt="keshavk21" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **LLMs**
 
 - 📝 I regularly write articles on [https://medium.com/@khandelwalkeshav2004](https://medium.com/@khandelwalkeshav2004)
 
